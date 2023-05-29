@@ -1,2 +1,4 @@
 # Deep_Learning_R_part-2
 Steps to fitting a Deep learning Model in R
+
+A deep learning model's architecture and layer configurations are specified using Keras during the modeling process. The model is then assembled using the optimizer, loss function, and evaluation metric(s) of choice. It is trained using the training data and its parameters are incrementally changed over several epochs to minimize the loss function. The test data are used to assess the performance of the trained model by calculating metrics like accuracy and loss. Finally, using the discovered relationships and patterns as inputs, the trained model is used to forecast new data. In general, this process entails defining, gathering, training, assessing, and applying the deep learning model to complete a particular job or problem.
